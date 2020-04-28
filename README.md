@@ -1,7 +1,7 @@
-# Customer_identification_using_Web_basedHigh-value consumer profiling using a hybrid                                      text-based and web-based approach
+# High-value consumer profiling using a hybrid text-based and web-based approach
 
 
-# ===== Project Description =====#
+### ===== Project Description =====
 
 
 In this project, we propose an approach to find out new potential consumers for a specific product or service offering using the social media presence of consumers. Using a hybrid, text-based and web-based approach we aim to identify and rank high-value customers using text-analysis, network-analysis and machine learning. This allows businesses to better design customer engagement programs targeting the right social media audience that are most likely to convert into consumers, thus improving the efficiency of customer acquisition, and increasing return on investment.
@@ -15,7 +15,7 @@ The following are required installations:
 - Jupyter notebooks
 
 
-# ===== Installation ===== #
+### ===== Installation ===== 
 1. Python: Can be downloaded from https://www.python.org/downloads/
 2. Jupyter Notebooks: Link for downloading: https://jupyter.org/install
 3. Related libraries:
@@ -27,7 +27,7 @@ The following are required installations:
 
 4. Twitter API: Request API keys for gathering twitter data from Developer documents: https://developer.twitter.com/en 
 
-# ===== Running the Scripts ===== #
+### ===== Running the Scripts ===== 
 1. Gathering Tweets: 
 Target and Non-Target accounts:
 run tweets_api.py for gathering tweets for 10 twitter accounts: 'tesla', 'ladygaga', 'usedgov', 'FoodandTravelEd', 'nytimes', 'premierleague', 'MTV','facebook', 'eBay', 'parenting'. These are saved in the folder ‘tweets_raw’.
