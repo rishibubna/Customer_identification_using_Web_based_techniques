@@ -37,6 +37,8 @@ run tweets_api.py for gathering tweets for 10 twitter accounts: 'tesla', 'ladyga
   1. Followers_pull1.json
   2. Followers_pull2.json
   3. Followers_pull3.json
+  
+###### Note: Put in your corresponding API keys, we have removed the API key
 
 2. Text Based Approach: Run the following files-
 * Data_Cleaning.ipynb 
